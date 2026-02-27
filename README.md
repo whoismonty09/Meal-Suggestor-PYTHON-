@@ -1,4 +1,4 @@
-# 🥗 Healthy Meal Planner App (Python)
+# 🥗 Healthy Meal Suggestor (Python)
 
 ## 📌 Project Overview
 This project is a Python based Healthy Meal Planner application that provides breakfast lunch and dinner meal suggestions according to user details such as diet type age height weight gender and fitness goal like weight loss or weight gain.
