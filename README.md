@@ -50,4 +50,4 @@ python meal_planner_extended.py
 ---
 
 ## 👨‍💻 Author
-Developed by 
+Developed by Monty
